@@ -1,0 +1,14 @@
+D:\Challenge1\Challenge1\bin\Debug\Challenge1.exe.config
+D:\Challenge1\Challenge1\bin\Debug\Challenge1.exe
+D:\Challenge1\Challenge1\bin\Debug\Challenge1.pdb
+D:\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+D:\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+D:\Challenge1\Challenge1\obj\Debug\Challenge1.exe
+D:\Challenge1\Challenge1\obj\Debug\Challenge1.pdb
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\Challenge1\Challenge1\bin\Debug\Challenge1.exe.config
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\Challenge1\Challenge1\bin\Debug\Challenge1.exe
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\Challenge1\Challenge1\bin\Debug\Challenge1.pdb
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\Challenge1\Challenge1\obj\Debug\Challenge1.exe
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\Challenge1\Challenge1\obj\Debug\Challenge1.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\week03\task02\bin\Debug\task02.exe.config
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\week03\task02\bin\Debug\task02.exe
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\week03\task02\bin\Debug\task02.pdb
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\week03\task02\obj\Debug\task02.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\week03\task02\obj\Debug\task02.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\week03\task02\obj\Debug\task02.exe
+C:\Users\HP\OneDrive\Desktop\Semester 2\OOP(lab tasks)\week03\task02\obj\Debug\task02.pdb
