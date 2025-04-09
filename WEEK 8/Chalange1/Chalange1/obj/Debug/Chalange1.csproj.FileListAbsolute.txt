@@ -1,0 +1,7 @@
+D:\Semester 2\OOP LAB\WEEK 8\Chalange1\Chalange1\bin\Debug\Chalange1.exe.config
+D:\Semester 2\OOP LAB\WEEK 8\Chalange1\Chalange1\bin\Debug\Chalange1.exe
+D:\Semester 2\OOP LAB\WEEK 8\Chalange1\Chalange1\bin\Debug\Chalange1.pdb
+D:\Semester 2\OOP LAB\WEEK 8\Chalange1\Chalange1\obj\Debug\Chalange1.csproj.AssemblyReference.cache
+D:\Semester 2\OOP LAB\WEEK 8\Chalange1\Chalange1\obj\Debug\Chalange1.csproj.CoreCompileInputs.cache
+D:\Semester 2\OOP LAB\WEEK 8\Chalange1\Chalange1\obj\Debug\Chalange1.exe
+D:\Semester 2\OOP LAB\WEEK 8\Chalange1\Chalange1\obj\Debug\Chalange1.pdb
